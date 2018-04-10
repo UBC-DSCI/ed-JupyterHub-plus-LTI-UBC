@@ -1,4 +1,4 @@
-# Jupyter-hub-LT1-UBC
+# Educational JupyterHub plus LTI (UBC)
 
 Important documentation for setting up JupyterHub on our metal along with LTI integration:
 
